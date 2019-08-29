@@ -50,7 +50,6 @@
             <p>Mobile:<a href="+234-8185289819" style="text-decoration:none">+234-8185289819</a> | Email: <a href="mololuwaakintunde@gmail.com" style="text-decoration:none">mololuwaakintunde@gmail.com</a></p>
     
     </header>
-   
 <section><!--Basic skills-->
     <h3>SKILLS:</h3>
     <hr>
