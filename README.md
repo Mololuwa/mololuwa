@@ -43,7 +43,7 @@
     }
 </style>   
 </head>
-<body>
+</body>
     <header>
             <h3>AKINTUNDE, Mololuwa Clement</h3>
             <p>199, Ademuleun Road Ajilo,Ondo, Ondo State.</p>
